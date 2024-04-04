@@ -1,0 +1,23 @@
+{
+  "name": "Pamuk",
+  "photoUrls": [
+    "<string>",
+    "<string>"
+  ],
+  "id": 1001,
+  "category": {
+    "id": 1,
+    "name": "cat"
+  },
+  "tags": [
+    {
+      "id": 1,
+      "name": "<string>"
+    },
+    {
+      "id": 1,
+      "name": "<string>"
+    }
+  ],
+  "status": "pending"
+}
