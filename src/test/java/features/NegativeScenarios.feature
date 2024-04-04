@@ -1,3 +1,4 @@
+@negative
 Feature: negatif senaryolar
 
   Background:

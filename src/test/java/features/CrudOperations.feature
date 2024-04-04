@@ -1,3 +1,4 @@
+@crud
 Feature: https://petstore.swagger.io api otomasyon testleri - CRUD operasyonları
 
   Background:
